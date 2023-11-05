@@ -1,4 +1,4 @@
-# AlarmSystem32_INPUT
+# AlarmSystem32 INPUT
 Additional module for AlarmSystem32 with input expansion.
 
 This add-on module allows you to extend the alarmSystem32 inputs. supports 8 12V inputs.
