@@ -11,7 +11,7 @@ This add-on module allows you to extend the alarmSystem32 inputs. supports 8 12V
 </tr>
 </TABLE>
 
-##Features
+## Features
 
 - PCF8574 I/O Expander
 - 8x 12V Inputs
