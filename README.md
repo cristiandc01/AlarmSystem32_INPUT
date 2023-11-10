@@ -3,7 +3,7 @@ Additional module for AlarmSystem32 with input expansion.
 
 This add-on module allows you to extend the alarmSystem32 inputs. supports 8 12V inputs.
 
-##The PCB
+## The PCB
 
 <TABLE><tr>
 <td><img src="https://github.com/cristiandc01/AlarmSystem32_INPUT/blob/main/Images/AlarmSystem32IN_PCB_FRONT.png" width="400"></td>
